@@ -9,6 +9,9 @@ This repository contains Data Structures and Algorithms implemented in Java.
   - Binary Search
 - Sorting Algorithms
   - Bubble
+  - Cyclic
+  - Insertion
+  - Selection
 - Recursion
 
 ## Purpose
